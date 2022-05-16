@@ -1,4 +1,4 @@
-### Hi, I´m Hanny Carballo! ✨(https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e4707khpv9kersrjukbn2yax0i0ms1dk8qx9b3mtimo&rid=giphy.gif&ct=g)
+### Hi, I´m Hanny Carballo! ✨
 
 <!--
 **HannyCarballo/HannyCarballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
