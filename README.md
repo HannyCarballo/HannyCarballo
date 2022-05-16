@@ -5,4 +5,4 @@
 ## About me
 - I´m studying computer engineering 💻
 - I have a blog and there I write about my experiences in LaunchX: https://hannycarballo.github.io/my_launchx_blog/ 👀
-- I practice mindfulness<img width="70" alt="image" src="https://media0.giphy.com/media/u3P8ktWNkjwOUTDnhi/giphy.gif?cid=ecf05e471v3g3q0cqra0wkuymfrwkuc3oldj2rx2odm2v24x&rid=giphy.gif&ct=g"> 
+- I practice mindfulness<img width="40" alt="image" src="https://media0.giphy.com/media/u3P8ktWNkjwOUTDnhi/giphy.gif?cid=ecf05e471v3g3q0cqra0wkuymfrwkuc3oldj2rx2odm2v24x&rid=giphy.gif&ct=g"> 
