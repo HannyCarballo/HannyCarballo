@@ -1,4 +1,4 @@
-## Hi, I´m Hanny Carballo!<img width="100" alt="image" src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e4707khpv9kersrjukbn2yax0i0ms1dk8qx9b3mtimo&rid=giphy.gif&ct=g">
+## Hi, I´m Hanny Carballo!<img width="100" alt="image" src="https://media3.giphy.com/media/AOXNxxIJuBQdNTBblp/200w.webp?cid=ecf05e47ojcavwbk08654e03x7qyat5uq7sxq69wuxkrspfk&rid=200w.webp&ct=s">
 
 ### About me
 - I practice mindfulness everyday <img width="40" alt="image" src="https://media3.giphy.com/media/YquS96oIvfE0KXl8oV/200w.webp?cid=ecf05e476uumxvof4opvbz6pz4mcv0vj3ddntnawnq1241l9&rid=200w.webp&ct=s">
