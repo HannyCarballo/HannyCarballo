@@ -3,7 +3,7 @@
 ### About me
 - I practice mindfulness everyday <img width="40" alt="image" src="https://media3.giphy.com/media/YquS96oIvfE0KXl8oV/200w.webp?cid=ecf05e476uumxvof4opvbz6pz4mcv0vj3ddntnawnq1241l9&rid=200w.webp&ct=s">
 - I´m studying computer engineering at UNAM <img width="40" alt="image" src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/200w.webp?cid=ecf05e474pgymzrnic5t12qbdaul9te7akqpthvc6krmpdhx&rid=200w.webp&ct=s">
-- I have a blog and there I write about my experiences in LaunchX and other things: https://hannycarballo.github.io/my_launchx_blog/ <img width="40" alt="image" src="https://media2.giphy.com/media/Vtolj9m51YV1zDVi3I/200w.webp?cid=ecf05e47kghqmkqs0b2whykaqj4gx8qnnhq7t7xwe6kr08tv&rid=200w.webp&ct=s">
+- I have a blog and there I write about my experiences in LaunchX: https://hannycarballo.github.io/my_launchx_blog/ <img width="40" alt="image" src="https://media2.giphy.com/media/Vtolj9m51YV1zDVi3I/200w.webp?cid=ecf05e47kghqmkqs0b2whykaqj4gx8qnnhq7t7xwe6kr08tv&rid=200w.webp&ct=s">
 
 ### My social media
 
