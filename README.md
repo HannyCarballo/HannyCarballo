@@ -3,7 +3,6 @@
 ### About me
 - I´m studying computer engineering at UNAM <img width="50" alt="image" src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/200w.webp?cid=ecf05e474pgymzrnic5t12qbdaul9te7akqpthvc6krmpdhx&rid=200w.webp&ct=s">
 - Ambassador of Tecnolochicas Mexico <img width="75" alt="image" src="https://media4.giphy.com/media/aBeUrQTg0WUBao1efq/200w.webp?cid=ecf05e47zhl86submp6zr99b9bm3epzxwae578y6au6qfkb9&rid=200w.webp&ct=s">
-- I belong to the community of "Mujeres en programación" of OmegaUp <img width="55" alt="image" src="https://media4.giphy.com/media/hvpsszdCV8XXGyymxu/giphy.gif?cid=ecf05e47kc5gjpviw2dqoaby5q5ee93fsvf6tbdf44aciq23&rid=giphy.gif&ct=ts">
 - Explorer in Launch X - innovaccion virtual <img width="60" alt="image" src="https://media0.giphy.com/media/LOJaOHihqEy6YvohZD/giphy.webp?cid=ecf05e47b5j5rygtqoaqnyyjj0opr8gwamrnua93qo0pr64q&rid=giphy.webp&ct=s">
 - I meditate everyday <img width="45" alt="image" src="https://media3.giphy.com/media/YquS96oIvfE0KXl8oV/200w.webp?cid=ecf05e476uumxvof4opvbz6pz4mcv0vj3ddntnawnq1241l9&rid=200w.webp&ct=s">
 
